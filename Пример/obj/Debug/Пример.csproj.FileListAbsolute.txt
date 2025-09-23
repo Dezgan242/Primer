@@ -1,0 +1,11 @@
+C:\Users\pl1494\source\repos\Пример\Пример\obj\Debug\Пример.csproj.AssemblyReference.cache
+C:\Users\pl1494\source\repos\Пример\Пример\obj\Debug\Пример.csproj.SuggestedBindingRedirects.cache
+C:\Users\pl1494\source\repos\Пример\Пример\obj\Debug\Пример.Form1.resources
+C:\Users\pl1494\source\repos\Пример\Пример\obj\Debug\Пример.Properties.Resources.resources
+C:\Users\pl1494\source\repos\Пример\Пример\obj\Debug\Пример.csproj.GenerateResource.cache
+C:\Users\pl1494\source\repos\Пример\Пример\obj\Debug\Пример.csproj.CoreCompileInputs.cache
+C:\Users\pl1494\source\repos\Пример\Пример\bin\Debug\Пример.exe.config
+C:\Users\pl1494\source\repos\Пример\Пример\bin\Debug\Пример.exe
+C:\Users\pl1494\source\repos\Пример\Пример\bin\Debug\Пример.pdb
+C:\Users\pl1494\source\repos\Пример\Пример\obj\Debug\Пример.exe
+C:\Users\pl1494\source\repos\Пример\Пример\obj\Debug\Пример.pdb

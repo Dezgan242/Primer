@@ -1,8 +1,4 @@
 # Проект: Открытие текста в новом окне
-
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success)](https://dezgan242.github.io/Primer/)
-[![GitHub Issues](https://img.shields.io/github/issues/Dezgan242/Primer)](https://github.com/Dezgan242/Primer/issues)
-
 Простой веб-проект, демонстрирующий работу с Git и GitHub.
 
 ## Функциональность

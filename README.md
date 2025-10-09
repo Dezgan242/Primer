@@ -30,7 +30,6 @@
 ```bash
 git clone https://github.com/Dezgan242/Primer.git
 
-
 # Запуск
 Начинаем подготовку
 Идём запускать
